@@ -1,0 +1,141 @@
+* {
+    padding: 0;
+    margin: 0;
+
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* Open Source image from unsplash */
+    background: url(https://images.unsplash.com/photo-1597839219216-a773cb2473e4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80);
+    background-repeat: no-repeat;
+}
+
+h1 {
+    margin: .2em 1em;
+    padding: .5em 1em .1em 1em;
+    font-size: 70px;
+    color: #e67300;
+    text-align: center;
+    animation: animate 4s linear infinite;
+}
+
+
+@keyframes animate {
+    0% {
+        color: #e67300;
+    }
+
+    3% {
+        color: #e673009c;
+    }
+
+    6% {
+        color: #e67300;
+    }
+
+    8% {
+        color: #e673009c;
+    }
+
+    8.2% {
+        color: #e67300;
+    }
+
+    8.4% {
+        color: #e673009c;
+    }
+
+    20% {
+        color: #e67300;
+    }
+
+    50% {
+        color: #e673009c;
+    }
+
+    90% {
+        color: #e67300;
+    }
+
+    99% {
+        color: #e673009c;
+    }
+
+    100% {
+        color: #e67300;
+    }
+
+}
+
+h2,
+h3 {
+
+    padding: 0 2em .5em 2em;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+h3 {
+    color: #7349AC
+}
+
+div {
+    font-family: 'PWHalloween', sans-serif;
+    color: white;
+
+
+
+}
+
+.right-border {
+    border-right: 7px solid #e67300;
+}
+
+.bottom-border {
+    border-bottom: 7px solid #e67300;
+}
+
+
+.container {
+    display: grid;
+    grid-template-columns: 150px 150px 150px;
+    grid-template-rows: 150px 150px 150px;
+    margin: 1em;
+
+}
+
+.grid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 90px;
+    cursor: pointer;
+    padding-bottom: 10px;
+}
+
+.grid:hover,
+button:hover {
+    background-color: #e673008f;
+}
+
+button {
+    margin: 2em;
+    padding: .3em 1em;
+    font-size: 20px;
+    background-color: #e67300;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+#player-score {
+    display: flex;
+    align-items: flex-end;
+    justify-content: end;
+}
