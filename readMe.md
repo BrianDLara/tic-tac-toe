@@ -16,13 +16,10 @@
 
 ### **_Technologies_**
 
-  - github
-
-- VS Code
+- Frontendd
+  - HTML
+  - Vanilla CSS
   - Vanilla JavaScript
-  - CSS (No bootstrap)
-
-
 
 ---
 
@@ -32,9 +29,7 @@
 
 #### Open the repo with vs code
 
-#### Create a pseudo code to get my ideas in order
-
-#### made a text file to write additional ideas
+#### on the terminal run `start index.html`
 
 ---
 
@@ -49,8 +44,8 @@
 ![image](https://i.imgur.com/S0WMJtA.png)
 
 > #### **AI preview (Beta)**
-<blockquote class="imgur-embed-pub" lang="en" data-id="cEukuJb"><a href="https://imgur.com/cEukuJb">View</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="cEukuJb"><a href="https://imgur.com/cEukuJb">View</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ### **_Task Lists_** :clipboard:
 
