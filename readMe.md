@@ -44,6 +44,8 @@
 
 > #### **AI preview (Beta)**
 
+https://i.imgur.com/cEukuJb.mp4
+
 [Imgur](https://imgur.com/cEukuJb)
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="cEukuJb"><a href="https://imgur.com/cEukuJb">View</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
