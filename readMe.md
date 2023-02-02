@@ -10,26 +10,25 @@
 
 ### **_Description_**
 
-#### I created a Tic-Tac-Toe game with a halloween theme, since spooky season is coming
+#### I created a Tic-Tac-Toe game with a halloween theme to celebrate the spooky season.
 
 ---
 
 ### **_Technologies_**
 
-- Frontendd
-  - HTML
-  - Vanilla CSS
-  - Vanilla JavaScript
+- HTML
+- Vanilla CSS
+- Vanilla JavaScript
 
 ---
 
 ### **_Getting Started_**
 
-#### Fork and clone the the repo in the terminal.
+- #### Fork and clone the the repo.
 
-#### Open the repo with vs code
+- #### Open the repo with vs code
 
-#### on the terminal run `open index.html`
+- #### on the terminal run `open index.html`
 
 ---
 
@@ -44,6 +43,8 @@
 ![image](https://i.imgur.com/S0WMJtA.png)
 
 > #### **AI preview (Beta)**
+
+[Imgur](https://imgur.com/cEukuJb)
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="cEukuJb"><a href="https://imgur.com/cEukuJb">View</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
