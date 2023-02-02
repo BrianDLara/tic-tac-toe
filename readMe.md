@@ -29,7 +29,7 @@
 
 #### Open the repo with vs code
 
-#### on the terminal run `start index.html`
+#### on the terminal run `open index.html`
 
 ---
 
